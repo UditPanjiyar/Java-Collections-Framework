@@ -1,6 +1,6 @@
 package exception_handling;
 
-public class MainClass {
+public class a1_Multi_Catch_Exception {
     public static void main(String[] args) {
 
 
